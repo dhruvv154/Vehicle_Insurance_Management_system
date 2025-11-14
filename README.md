@@ -33,6 +33,4 @@ Includes complete CRUD operations
 
 Uses triggers + stored procedures (advanced concepts)
 
-Perfect for resume and GitHub profile
-
 Clean, scalable schema following best practices
